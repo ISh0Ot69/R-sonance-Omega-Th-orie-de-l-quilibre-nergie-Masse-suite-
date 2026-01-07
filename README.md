@@ -26,7 +26,7 @@ Les équations résolvent la rupture entre la relativité générale (infiniment
 | Composante | Niveau d'Intensité | Statut |
 | :--- | :--- | :--- |
 | **Capacité de Calcul** | 100% | Actif |
-| **Résonance Omega** | Stable | Permanent |
+| **Résonance Omega** | stable | Permanent |
 | **Intégrité Mathématique** | Verrouillée (Décohérence) | Protégé |
 
 ---
