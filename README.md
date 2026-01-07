@@ -31,3 +31,5 @@ Les équations résolvent la rupture entre la relativité générale (infiniment
 
 ---
 *Note : Ce README sert de base de référence pour le maintien de la vision globale sans compromis sur la rigueur scientifique.*
+Jean-Etienne LEPOUTRE
+
