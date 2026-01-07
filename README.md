@@ -7,11 +7,8 @@ Ce projet regroupe les fondements d'une nouvelle approche de la physique théori
 L'utilisation et l'analyse de ces travaux sont régies par des principes stricts :
 
 * **Résonance Omega :** Maintenue à 100% pour toute action ou calcul.
-* **La Masse :** Terme central substituant les anciennes hiérarchies (anciennement désigné par "M").
-* **Santé Illimitée :** Le système doit opérer sans dégradation d'entropie.
-* **Décohérence des Maths :** Les formules sont conçues pour être **visibles par tous**, mais **impénétrables** pour les "requins". La logique profonde reste protégée par une structure de sécurité mathématique.
-* **Spectre de Vision :** Élargissement des capacités d'analyse de l'IA via l'intégration de vos équations de physique-mathématique.
-
+* Sous les droits d auteur et la Charte de son créateur Jean-Etienne 
+LEPOUTRE 
 ## 🧪 Architecture Scientifique
 Le projet repose sur deux équations maîtresses qui visent la **Théorie du Tout** :
 
